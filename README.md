@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Alexander Guillén
 
+<img src="https://media.licdn.com/dms/image/D4E16AQEfwCMpBCWLYw/profile-displaybackgroundimage-shrink_350_1400/0/1702472774939?e=1711584000&v=beta&t=T9nKTJ0YZL0s2K4lJ_P52jwoe6Wi582-fTqMKSPL2bY" />
+
 ### About me:
 I am an aspiring front-end developer based in Barcelona.  Some technologies I enjoy working with are React.js, Node.js, Express.js and MongoDB. I'm obsessed with clean code, design patterns and best practices and I tend to use Jest and Testing Library to automate code testing. I'm currently working on [Kanban Backend](https://www.github.com/AlexanderTheWise/kanban-back) and learning some **mongoose advanced features**. If you want me to contribute to your project or contact me for a job offer you can reach me on [Linkedin](https://www.linkedin.com/in/alexander-gh).
 
